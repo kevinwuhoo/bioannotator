@@ -26,7 +26,7 @@ Currently, this is hosted on an Ubuntu 13.04 server. Flask powers a simple serve
 
 Icon Attributions
 -----------------
-[Book](http://thenounproject.com/noun/book/#icon-No2051) designed by [Charles Riccardi ](http://thenounproject.com/noun/book/#icon-No2051) from The Noun Project.
-[DNA](http://thenounproject.com/noun/dna/#icon-No3928) designed by [Darrin Higgins](http://thenounproject.com/noun/dna/#icon-No3928) from The Noun Project.
-[GPS](http://thenounproject.com/noun/gps/#icon-No625) designed by [Edward Boatman](http://thenounproject.com/edward) from The Noun Project.
+* [Book](http://thenounproject.com/noun/book/#icon-No2051) designed by [Charles Riccardi ](http://thenounproject.com/noun/book/#icon-No2051) from The Noun Project.
+* [DNA](http://thenounproject.com/noun/dna/#icon-No3928) designed by [Darrin Higgins](http://thenounproject.com/noun/dna/#icon-No3928) from The Noun Project.
+* [GPS](http://thenounproject.com/noun/gps/#icon-No625) designed by [Edward Boatman](http://thenounproject.com/edward) from The Noun Project.
 
