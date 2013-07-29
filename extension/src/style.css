@@ -1,0 +1,11 @@
+.bioannotator-highlight {
+  background-color: #D3EAAD;
+  cursor: pointer;
+}
+
+.bioannotator-icon {
+  height: 30px;
+  width: 30px;
+  margin-left: 3px;
+  margin-right: 3px;
+}

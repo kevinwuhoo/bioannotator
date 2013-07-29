@@ -1,0 +1,32 @@
+{
+  "name": "Bioannotator",
+  "version":"0.0.0.1",
+  "manifest_version": 2,
+  "description": "Automatic Annotation of Scientific Literature",
+  "web_accessible_resources": ["img/icon-wikipedia.png", 
+                               "img/icon-book.svg", 
+                               "img/icon-dna.svg", 
+                               "img/icon-gps.svg", 
+                               "js/jquery-2.0.3.min.map"],
+  "content_scripts": [
+    {
+      "matches": [
+        "http://bioannotator.kevinformatics.com/*",
+        "http://*.plosbiology.org/*",
+        "http://*.plosmedicine.org/*",
+        "http://*.plosone.org/*",
+        "http://*.plosgenetics.org/*",
+        "http://*.ploscompbiol.org/*",
+        "http://*.plospathogens.org/*",
+        "http://*.plosntds.org/*"
+      ],
+      "css": ["css/bootstrap.min.css", 
+              "style.css"],
+      "js": ["js/jquery-2.0.3.min.js", 
+             "js/jquery.highlight.js", 
+             "js/bootstrap.min.js", 
+             "script.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
